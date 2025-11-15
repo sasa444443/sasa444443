@@ -54,16 +54,6 @@
 
 ---
 
-## **GitHub Stats**
-
-<p>
-  <a href="https://github.com/MustafaSabry1">
-    <img width="55%" align="right" alt="Mostafa's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MustafaSabry1&show_icons=true&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## Main Projects
 
 <p align="center">
