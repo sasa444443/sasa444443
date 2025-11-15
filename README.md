@@ -2,9 +2,9 @@
 ## Hi, I'm Mostafa Sabry — Flutter Developer 🚀 from Egypt
 
 <!-- Badges -->
-[![Github](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/MustafaSabry1)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/sasa444443)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-sabry-631728338/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mustafasabrry_/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:promostafa23@gmail.com)
 
 ---
@@ -32,10 +32,10 @@
   <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
   <br />
-  <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
+  <!-- <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
   <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"> -->
 </p>
 
 ---
