@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-sabry-631728338/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mustafasabrry_/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:promostafa23@gmail.com)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mustafa.sabry.192044)
 
 ---
 
@@ -24,19 +25,32 @@
 
 ---
 
-## **Languages & Tools**
+**Languages and Tools:** 
 
 <p>
-  <img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-  <br />
-  <!-- <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"> -->
+  <a href="https://github.com/sasa444443">
+    <img width="55%" align="right" alt="Mostafa's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=sasa444443&show_icons=true&hide_border=true" />
+ 
+
+  <!-- Languages -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+
+
+
+  <!-- Tools -->
+  <code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+
+ 
+
+  <!-- Firebase -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+
 </p>
+
 
 ---
 
