@@ -1,96 +1,66 @@
-<!-- Your title -->
-## Hi, I'm Murillo Comino, a Developer 🚀 from Brazil.
+<!-- Title -->
+## Hi, I'm Mostafa Sabry — Flutter Developer 🚀 from Egypt
 
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+<!-- Badges -->
+[![Github](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white)](https://github.com/MustafaSabry1)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:promostafa23@gmail.com)
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/murillo_comino/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:murillo.comino@gmail.com)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:murillo_comino@hotmail.com)
+---
 
-&nbsp;
+<!-- About Me -->
+**About Me:**
 
-<!-- Talking about you -->
-**Talking about Personal Stuffs:**
+<img width="55%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 👨‍💻 I’m a Flutter Developer focused on building clean & scalable mobile apps.
+- 🔥 Currently working on multiple Flutter projects to sharpen my skills.
+- 🌱 Learning more about State Management, Clean Architecture, and Firebase.
+- 🤝 Open to collaborating on Flutter apps and Dart libraries.
+- 💬 You can ask me about Flutter, Dart, OOP, or Data Structures.
+- ⚡ Fun Fact: I switched from C++ & OOP projects into full-time Flutter development.
+- 📫 Contact me: **promostafa23@gmail.com**
 
-- 👨🏽‍💻 I’m currently working on [Handle Path Oz](https://github.com/onimur/handle-path-oz);
-- 🌱 I’m currently learning Kotlin and Continuous Integration(CircleCI); 
-- 👯 I’m looking to collaborate on [Handle Path Oz](https://github.com/onimur/handle-path-oz) 🤝;
-- 🤔 I’m looking for help with Design Pattern 😭;
-- 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a degree in civil engineering;
-- 📫 How to reach me: murillo_comino@hotmail.com;
+---
 
-**Languages and Tools:** 
+## **Languages & Tools**
 
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="55%" align="right" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=onimur&show_icons=true&hide_border=true" />
-  </a>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
+  <img width="10%" src="https://www.vectorlogo.zone/logos/yaml/yaml-ar21.svg">
 </p>
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
-<p align="center">
-  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/onimur.svg" />
-</p>
+---
 
-## Support me
-<!-- Your support, if you have it 
-I created these images, feel free to use them.
--->
-<p align="center">
-  <a href="https://www.patreon.com/onimur" target="_blank">
-    <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-patreon.png"/>
-  </a>
-  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=YUTBBKXR2XCPJ" target="_blank">
-      <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-paypal.png"/>
-  </a>
-  <a href="https://www.buymeacoffee.com/onimur" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+## **GitHub Stats**
+
+<p>
+  <a href="https://github.com/MustafaSabry1">
+    <img width="55%" align="right" alt="Mostafa's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MustafaSabry1&show_icons=true&hide_border=true" />
   </a>
 </p>
 
 ---
 
-<!-- Its main projects -->
+## **Main Projects**
+
 <p align="center">
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=handle-path-oz" />
+  <a href="https://github.com/MustafaSabry1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MustafaSabry1&repo=YourFirstFlutterApp" />
   </a>
-  <a href="https://github.com/onimur/circleci-github-changelog-generator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=onimur&repo=circleci-github-changelog-generator" />
+  <a href="https://github.com/MustafaSabry1">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MustafaSabry1&repo=AnotherProject" />
   </a>
 </p>
 
-<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
+---
+
+<p align="center">✨ Crafted by Mostafa Sabry — Flutter Developer ✨</p>
